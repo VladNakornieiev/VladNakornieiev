@@ -9,25 +9,13 @@ I am a passionate developer focused on building modern, scalable web application
 ## 🛠 My Tech Stack
 
 ### Frontend Development
-- **Languages & Frameworks:** React, Next.js, TypeScript, JavaScript
-- **Styling:** Tailwind CSS, HTML5, CSS3
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css)
 
 ### Backend & Databases
-- **Architecture:** Node.js, Next.js API Routes, REST & GraphQL APIs
-- **ORM & Databases:** Prisma ORM, PostgreSQL, MySQL, MongoDB
+![Backend](https://skillicons.dev/icons?i=nodejs,graphql,prisma,postgres,mysql)
 
 ### Systems & Networking
-- **Infrastructure:** Git & GitHub, Docker, Linux, Virtualization
-- **Network Engineering:** Network architecture, Subnetting (VLSM), VLAN configuration, and Home Server (NAS) administration
-
----
-
-## 📈 GitHub Stats & Dynamics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vladnakornieiev&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vladnakornieiev&theme=radical" alt="GitHub Streak" height="180" />
-</p>
+![Systems](https://skillicons.dev/icons?i=git,docker,linux,apple)
 
 ---
 
@@ -40,8 +28,10 @@ I am a passionate developer focused on building modern, scalable web application
 
 ## 📬 Connect with Me
 
-- **LinkedIn:** [Vladyslav Nakornieiev](https://linkedin.com/in/vladyslav-nakornieiev)
-- **Instagram:** [@_vlad_nakornieiev_](https://t.me/your-username)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/vladyslav-nakornieiev)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/_vlad_nakornieiev_)
+
+---
 
 <p align="center">
   <i>"The best way to predict the future is to invent it."</i>
